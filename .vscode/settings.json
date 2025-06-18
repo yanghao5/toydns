@@ -1,0 +1,6 @@
+{
+    "gopls": { "ui.semanticTokens": true },
+    "git.ignoredRepositories": [
+    "/home/hall/dev/project/toydns/_toydns2"
+  ],
+}
